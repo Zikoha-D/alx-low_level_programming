@@ -1,5 +1,9 @@
 #include <studio.h>
 
+/**
+ *main - prints exactly "Programming is like building a multilingual puzzle"
+ * Return: Always ends with 0
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
